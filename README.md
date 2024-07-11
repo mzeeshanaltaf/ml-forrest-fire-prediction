@@ -26,7 +26,8 @@ You must have Python 3.9 or later installed. Earlier versions of python may not 
    `streamlit run main.py`
 
 # Screen Shots
-![image](https://github.com/mzeeshanaltaf/ml-forrest-fire-prediction/assets/154883001/d27bd109-870a-42ae-9183-5add653acb81)
+![image](https://github.com/mzeeshanaltaf/ml-forrest-fire-prediction/assets/154883001/acf664a4-d2f7-4fbe-b204-939d071361f1)
+
 
 
 

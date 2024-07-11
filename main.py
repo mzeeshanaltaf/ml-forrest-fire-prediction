@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler
 
 # Initialize streamlit app
-page_title = "Algeria Forest Fire Prediction"
+page_title = "Algerian Forest Fire Prediction"
 page_icon = "👨‍💼"
 st.set_page_config(page_title=page_title, page_icon=page_icon, layout="centered")
 
